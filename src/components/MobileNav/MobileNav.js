@@ -1,13 +1,12 @@
 import React from 'react'
-import { User32, Portfolio32, Education32, Document32, Home32 } from '@carbon/icons-react'
+import { User32, Email32, Education32, Document32, Home32 } from '@carbon/icons-react'
 import { Link } from 'react-scroll';
 import { Container, Spacer, NavWrapper, NavButton, NavLink, NavResume } from './styles'
 
 const items = [
   { name: 'Home', path: 'home', icon: Home32 },
-  { name: 'About Me', path: 'about', icon: User32 },
-  { name: 'Experience', path: 'work', icon: Portfolio32 },
-  { name: 'Education', path: 'education', icon: Education32 },
+  { name: 'About Us', path: 'about', icon: User32 },
+  { name: 'Contacts', path: 'work', icon: Email32 },
 ];
 const MobileNav = () => {
   return (
@@ -32,14 +31,7 @@ const MobileNav = () => {
      </NavLink>
         ))}
 
-        <NavResume href={`https://drive.google.com/open?id=1EafRTLOaEbjYBgckBIfArwJmMjRC241J`}>
-          <NavButton
-            hasIconOnly
-            renderIcon={Document32}
-            iconDescription="View Resume"
-            tooltipPosition="bottom"
-          />
-        </NavResume>
+     
       </NavWrapper>
     </Container>
   )

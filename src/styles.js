@@ -78,7 +78,7 @@ export const ColorBlockStart = styled.div`
   font-variant: normal;
   text-transform: none;
   padding-bottom: 1rem;
-  padding-top: 2rem;
+  padding-top: 2.5rem;
   padding-right:0.5rem;
   background-color:#343741;
   float:left;

@@ -9,8 +9,8 @@ const Work = ({ user }) => {
       <WorkItem>
         <WhiteBlock>
           <Paragraph>We proudly service the greater area of the HRM.</Paragraph>
-          <P1>CALL <a href="tel:+19024405615" class="headerContactItem">902-440-5615</a></P1>
-          <P1>EMAIL <a href="mailto:bahovvaleriu@gmail.com">bahovvaleriu@gmail.com</a></P1>
+          <P1>CALL <a href="tel:+1902440XXXX" class="headerContactItem">902-440-XXXX</a></P1>
+          <P1>EMAIL <a href="mailto:namesurname@gmail.com">namesurname@gmail.com</a></P1>
         </WhiteBlock>
       </WorkItem>
     </WorkDiv>
