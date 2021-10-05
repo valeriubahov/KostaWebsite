@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/KostaWebsite/static/css/main.7e7fc048.chunk.css",
-    "main.js": "/KostaWebsite/static/js/main.5a3ddde5.chunk.js",
-    "main.js.map": "/KostaWebsite/static/js/main.5a3ddde5.chunk.js.map",
+    "main.js": "/KostaWebsite/static/js/main.43910d4e.chunk.js",
+    "main.js.map": "/KostaWebsite/static/js/main.43910d4e.chunk.js.map",
     "runtime-main.js": "/KostaWebsite/static/js/runtime-main.0825cb72.js",
     "runtime-main.js.map": "/KostaWebsite/static/js/runtime-main.0825cb72.js.map",
     "static/css/2.99131379.chunk.css": "/KostaWebsite/static/css/2.99131379.chunk.css",
-    "static/js/2.4c5196ee.chunk.js": "/KostaWebsite/static/js/2.4c5196ee.chunk.js",
-    "static/js/2.4c5196ee.chunk.js.map": "/KostaWebsite/static/js/2.4c5196ee.chunk.js.map",
+    "static/js/2.e0cb7863.chunk.js": "/KostaWebsite/static/js/2.e0cb7863.chunk.js",
+    "static/js/2.e0cb7863.chunk.js.map": "/KostaWebsite/static/js/2.e0cb7863.chunk.js.map",
     "index.html": "/KostaWebsite/index.html",
-    "precache-manifest.4963f8d1a7ba634411d240c62a56f544.js": "/KostaWebsite/precache-manifest.4963f8d1a7ba634411d240c62a56f544.js",
+    "precache-manifest.dde264ed7fbecf6a9a34c760087991e9.js": "/KostaWebsite/precache-manifest.dde264ed7fbecf6a9a34c760087991e9.js",
     "service-worker.js": "/KostaWebsite/service-worker.js",
     "static/css/2.99131379.chunk.css.map": "/KostaWebsite/static/css/2.99131379.chunk.css.map",
     "static/css/main.7e7fc048.chunk.css.map": "/KostaWebsite/static/css/main.7e7fc048.chunk.css.map",
-    "static/js/2.4c5196ee.chunk.js.LICENSE.txt": "/KostaWebsite/static/js/2.4c5196ee.chunk.js.LICENSE.txt",
+    "static/js/2.e0cb7863.chunk.js.LICENSE.txt": "/KostaWebsite/static/js/2.e0cb7863.chunk.js.LICENSE.txt",
     "static/media/Bathroom1.jpg": "/KostaWebsite/static/media/Bathroom1.0e51ca0e.jpg",
     "static/media/Bathroom2.jpg": "/KostaWebsite/static/media/Bathroom2.3a5d2cab.jpg",
     "static/media/Kitchen1.jpg": "/KostaWebsite/static/media/Kitchen1.b0215de9.jpg",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.0825cb72.js",
     "static/css/2.99131379.chunk.css",
-    "static/js/2.4c5196ee.chunk.js",
+    "static/js/2.e0cb7863.chunk.js",
     "static/css/main.7e7fc048.chunk.css",
-    "static/js/main.5a3ddde5.chunk.js"
+    "static/js/main.43910d4e.chunk.js"
   ]
 }

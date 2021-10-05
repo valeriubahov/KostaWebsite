@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/KostaWebsite/precache-manifest.4963f8d1a7ba634411d240c62a56f544.js"
+  "/KostaWebsite/precache-manifest.dde264ed7fbecf6a9a34c760087991e9.js"
 );
 
 self.addEventListener('message', (event) => {
