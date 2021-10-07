@@ -2,7 +2,7 @@
   "name": "Renovation",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bahovvaleriu.ml",
+  "homepage": "http://bahovvaleriu.ml",
   "dependencies": {
     "3d-react-carousal": "^4.0.2",
     "@carbon/icons-react": "^10.8.2",
