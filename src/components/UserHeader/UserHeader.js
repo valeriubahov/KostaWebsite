@@ -21,12 +21,12 @@ const images = [
     thumbnail: Bath2,
   },
   {
-    original: Kitchen1,
-    thumbnail: Kitchen1,
-  },
-  {
     original: Kitchen2,
     thumbnail: Kitchen2,
+  },
+  {
+    original: Kitchen1,
+    thumbnail: Kitchen1,
   },
 ];
 
