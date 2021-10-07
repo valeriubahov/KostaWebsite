@@ -36,7 +36,7 @@ const UserHeader = ({ user }) => {
     <HeaderContainer isHome={location.pathname !== '/'}>
       <AboutMe>
         <CenterDiv>
-          <H1>Costantin Bulgaru Company</H1>
+          <H1>Bulgaru Quality Builders Inc.</H1>
         </CenterDiv>
       </AboutMe>
       <ImageGallery items={images} autoPlay={true} />
